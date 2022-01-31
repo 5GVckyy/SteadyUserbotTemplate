@@ -1,7 +1,7 @@
 {
   "name": "STEADY-USERBOT",
   "description": "[STEADY-USERBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/42e679c5b472a949f3223.jpg",
+  "logo": "https://telegra.ph/file/add31c6018ba67309bd3b.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -24,7 +24,7 @@
     },
     "ALIVE_LOGO": {
       "description": "BUAT ALIVE LOGO MU SENDIRI.",
-      "value": "https://telegra.ph/file/79afc152bb1d7620ceb0c.jpg",
+      "value": "https://telegra.ph/file/add31c6018ba67309bd3b.jpg",
       "required": true
      },
      "STRING_SESSION": {
