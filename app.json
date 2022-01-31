@@ -1,6 +1,6 @@
 {
   "name": "VEGETA-USERBOT",
-  "description": "[VEGETA-USERBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "description": "[STEADY-USERBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "https://telegra.ph/file/42e679c5b472a949f3223.jpg",
   "keywords": [
     "telegram",
@@ -47,7 +47,7 @@
     },
     "BOTLOG_CHATID": {
       "description": "Masuk @spambotVegeta atau Buatlah sebuah grup private/public masukan @kazukoRobot lalu ketik /id, Salin dan hapus id dibawah ini, Lalu tempel.",
-      "value": "-1001689681361",
+      "value": "-1001656042175",
       "required": true
     },
     "COUNTRY": {
@@ -88,12 +88,12 @@
     },
     "S_PACK_NAME": {
       "description": "Nama Sticker Pack Mu",
-      "value": "kang",
+      "value": "Vckyy",
       "required": false
     },
     "G_BAN_LOGGER_GROUP": {
       "description": "Masuk @spambotVegeta Atau Buatlah Sebuah Grup Private/Public Lalu Masukkan @KazukoRobot Lalu Ketik /id, Salin dan hapus id dibawah ini lalu tempel.",
-      "value": "-1001689681361",
+      "value": "-1001656042175",
       "required": false
     },
     "LOGSPAMMER": {
@@ -107,12 +107,12 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "your fork vegeta userbot repo link",
-      "value": "https://github.com/Randi356/Vegeta-Userbot",
+      "value": "https://github.com/5GVckyy/SteadyUserbotTemplate",
       "reguired": true
       
     },
     "BOT_USERNAME": {
-      "description": "isi username bot mu yang dari @BotFather",
+      "description": "isi username bot mu yang dari @BotFather Tanpa @",
       "required": true
     }
   },
