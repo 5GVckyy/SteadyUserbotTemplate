@@ -1,6 +1,6 @@
 # Using Python Slim-Buster
 FROM xluxz/geezproject:buster
-# VEGETA-USERBOT
+# SteadyUserbotTemplate
 # CuteInspire
 
 
