@@ -3,7 +3,6 @@ FROM xluxz/geezproject:buster
 # SteadyUserbotTemplate
 
 
-
 RUN git clone -b SteadyUserbotTemplate https://github.com/5GVckyy/SteadyUserbotTemplate /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
