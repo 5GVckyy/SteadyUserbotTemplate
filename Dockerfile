@@ -5,7 +5,7 @@ FROM xluxz/geezproject:buster
 # CuteInspire
 
 
-RUN git clone -b Steady-Userbot https://github.com/5GVckyy/Steady-Userbot /root/userbot
+RUN git clone -b SteadyUserbotTemplate https://github.com/5GVckyy/SteadyUserbotTemplate /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
