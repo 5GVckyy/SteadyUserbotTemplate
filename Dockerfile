@@ -1,7 +1,7 @@
 # Using Python Slim-Buster
 FROM xluxz/geezproject:buster
 # SteadyUserbotTemplate
-# CuteInspire
+
 
 
 RUN git clone -b SteadyUserbotTemplate https://github.com/5GVckyy/SteadyUserbotTemplate /root/userbot
