@@ -1,8 +1,8 @@
 # Using Python Slim-Buster
-FROM vckyouuu/geezproject:buster
+FROM vckyyclone/steadyproject:buster
 
 
-RUN git clone -b Vegeta-Userbot https://github.com/Randi356/Vegeta-Userbot /root/userbot
+RUN git clone -b SteadyUserbotTemplate https://github.com/5GVckyy/SteadyUserbotTemplate /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
